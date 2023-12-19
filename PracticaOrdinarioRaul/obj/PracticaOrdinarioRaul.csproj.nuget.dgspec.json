@@ -1,20 +1,24 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ryupi\\OneDrive\\Escritorio\\Practicas Visual Studio\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul.csproj": {}
+    "C:\\Users\\kueri\\OneDrive\\Documentos\\GitHub\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ryupi\\OneDrive\\Escritorio\\Practicas Visual Studio\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul.csproj": {
+    "C:\\Users\\kueri\\OneDrive\\Documentos\\GitHub\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ryupi\\OneDrive\\Escritorio\\Practicas Visual Studio\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul.csproj",
+        "projectUniqueName": "C:\\Users\\kueri\\OneDrive\\Documentos\\GitHub\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul.csproj",
         "projectName": "PracticaOrdinarioRaul",
-        "projectPath": "C:\\Users\\ryupi\\OneDrive\\Escritorio\\Practicas Visual Studio\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul.csproj",
-        "packagesPath": "C:\\Users\\ryupi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ryupi\\OneDrive\\Escritorio\\Practicas Visual Studio\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\obj\\",
+        "projectPath": "C:\\Users\\kueri\\OneDrive\\Documentos\\GitHub\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul.csproj",
+        "packagesPath": "C:\\Users\\kueri\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kueri\\OneDrive\\Documentos\\GitHub\\PracticaOrdinarioRaul\\PracticaOrdinarioRaul\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
-          "C:\\Users\\ryupi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\kueri\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -50,12 +54,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.17, 5.0.17]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
         }
       }
     }
